@@ -1,0 +1,11 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "description": "First MV folder structure",
+  "main": "index.js",
+  "author": "Tracy ekua Arthur",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
